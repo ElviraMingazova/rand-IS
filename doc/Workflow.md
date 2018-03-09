@@ -47,7 +47,7 @@ f) Assembly: genome assembly (hg38)
 # Workflow
 
 2.03
-18:00 - 20:30
+18:00 - 20:30 (2,5 h)
 I downloaded the full human genome here http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/
 
 
@@ -59,7 +59,7 @@ Usage under https://virtualenv.pypa.io/en/stable/userguide/#usage
 
 
 8.03
-16:30 - 18:30
+16:30 - 18:30 (2,0 h)
 
 Downloaded GEM - library, unpacked, added to PATH:
 export PATH=$PATH:~/rand-IS/bin/GEM/bin
@@ -69,14 +69,17 @@ export PATH=$PATH:~/rand-IS/bin/GEM/bin
 - Refactored the file with `futurize getRegionW2_weighted.py` to make it compatible with python3
 - Tested the file - works
 
-To do for tomorrow:
-- make getRegionW2_weighted produce the IS in the right format, also revise the code check that it produces right weighted results
-- commit stuff to github
-- write a HowTo for the RM0 basic random IS generator
+
 
 9.03
-14:20 -
+14:30 - 19:00 (4,5 h)
 
 - Edited the getRegionW2_weighted.py script, made it more beautiful according to PEP8,
 added main() function, integration sites are now being saved in a pandas DataFrame which is also saved in
-the outputfile. Now the script needs an additional command line argument -o with the location of the output IS table. 
+the outputfile. Now the script needs an additional command line argument -o with the location of the output IS table.
+
+- Made commits to GitHub, had a problem that my commit was not recognized as mine due to the wrong default email stored on my working laptop which was <elvira@akariel.tp2.gnwkservices.com>, took some time to make that commit appear in my history on git.
+
+To do:
+- write a HowTo for the RM0 basic random IS generator
+- start working on RM1
