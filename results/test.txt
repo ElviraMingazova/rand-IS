@@ -1,6 +1,6 @@
   Chromosome      Start        End      Match Rnd Model                 Assembly
-1       chr3   52526218   52526219  unmatched       RM0  data/textfiles/hg38.txt
-2       chr7     569401     569402  unmatched       RM0  data/textfiles/hg38.txt
-3       chr4  168396930  168396931  unmatched       RM0  data/textfiles/hg38.txt
-4       chr7  144942539  144942540  unmatched       RM0  data/textfiles/hg38.txt
-5      chr14   78715911   78715912  unmatched       RM0  data/textfiles/hg38.txt
+1       chr9   99015810   99015811  unmatched       RM0  data/textfiles/hg38.txt
+2       chrY   42133609   42133610  unmatched       RM0  data/textfiles/hg38.txt
+3       chr3  132789606  132789607  unmatched       RM0  data/textfiles/hg38.txt
+4       chr9   80305236   80305237  unmatched       RM0  data/textfiles/hg38.txt
+5       chrX   31436215   31436216  unmatched       RM0  data/textfiles/hg38.txt

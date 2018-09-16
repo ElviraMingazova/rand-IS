@@ -83,3 +83,17 @@ the outputfile. Now the script needs an additional command line argument -o with
 To do:
 - write a HowTo for the RM0 basic random IS generator
 - start working on RM1
+
+12.03
+15:00 - 17:00
+
+Writing a HowTo for RM0
+
+2.04 - 19:35 - 21:15
+
+Continued on HowTo, described where to find and how to download the chromosome dimensions for a given organism
+
+
+To do: make the assembly appear correct
+Finish the HowTo for RM0
+Update GitHub
