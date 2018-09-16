@@ -1,5 +1,7 @@
 # rand-IS
 
-Random Model 0 dataset generation:
+Random dataset generation:
 
-clone the repository to your home directory
+* clone the repository to your home directory
+
+* all the instructions are under doc/HowTo.md
