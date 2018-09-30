@@ -1,7 +1,7 @@
 # rand-IS
 
-Random dataset generation:
+Random dataset generation using RM0, RM1 and RM2:
 
-* clone the repository to your home directory
+* Clone the repository to your home directory
 
-* all the instructions are under doc/HowTo.md
+* Follow the instructions under doc/HowTo.md
